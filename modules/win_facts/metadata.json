@@ -1,0 +1,28 @@
+{
+  "name": "liamjbennett-win_facts",
+  "version": "0.0.1",
+  "source": "UNKNOWN",
+  "author": "liamjbennett",
+  "license": "Apache License, Version 2.0",
+  "summary": "Module to install additional useful windows facter facts",
+  "description": "UNKNOWN",
+  "project_page": "https://github.com/liamjbennett/puppet-win_facts",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "AUTHORS": "58ac67da8c3fe42bf6a3758141614a6c",
+    "Gemfile": "1d2682a49c9520dfeef8093f4d7e49d8",
+    "Gemfile.lock": "5969279a97319972dfeb6df14383d2d5",
+    "LICENSE": "8f7bb094c7232b058c7e9f2e431f389c",
+    "ModuleFile": "5ba5f1483e35a331dd69d5dd07208ce4",
+    "README.md": "2f80aaa3eb1a78c6048cf4cca401595a",
+    "lib/facter/operatingsystemversion.rb": "1dd801ba6be1c360c23540577de4e479",
+    "lib/facter/windows_productkey.rb": "5c5b5be84bdad4fe7cc598efd3e65cab",
+    "lib/facter/windows_sid.rb": "006e53b52965b6903acdadb35cf2788f",
+    "lib/facter/windows_systemtype.rb": "5a8bc83fbca6eb235f26a07c10c038a1"
+  }
+}

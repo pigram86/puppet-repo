@@ -1,0 +1,24 @@
+{
+  "checksums": {
+    "spec/spec_helper.rb": "beb8fc04c48a92c7c636ff9650c971c3",
+    "lib/puppet/provider/exec/powershell.rb": "3a72f11768d32c1426cdb22f136c127a",
+    "README.md": "0241c8fcd089858026be41bcf3dcf6ea",
+    "tests/init.pp": "45bb467e86c95dfc5f856c06c85fc43c",
+    "spec/unit/provider/exec/powershell_spec.rb": "348fdc41c2c6c0c4698a68f05314e630",
+    "Modulefile": "d21424b1edf4912f1e4058e5b3128208"
+  },
+  "description": "A PowerShell provider for puppet.",
+  "dependencies": [
+
+  ],
+  "summary": "A PowerShell provider for puppet.",
+  "author": "Josh Cooper",
+  "project_page": "http://links.puppetlabs.com/powershell-module",
+  "types": [
+
+  ],
+  "source": "git://github.com/joshcooper/puppetlabs-powershell.git",
+  "version": "0.0.4",
+  "license": "Apache License, Version 2.0",
+  "name": "joshcooper-powershell"
+}
